@@ -27,6 +27,7 @@
     "react-spinners": "^0.13.8",
     "stripe": "^14.4.0",
     "tailwind-merge": "^1.14.0",
+    "types": "^0.1.1",
     "uniqid": "^5.4.0",
     "use-sound": "^4.0.1",
     "zustand": "^4.4.6"
